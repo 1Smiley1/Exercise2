@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleHierarchies.Services"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleHierarchies.Gui", "SampleHierarchies.Gui\SampleHierarchies.Gui.csproj", "{1D62C792-9B40-43A5-94C8-87804AD61773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleHierarchies.Helpers", "SampleHierarchies.Helpers\SampleHierarchies.Helpers.csproj", "{87E3AA3C-9757-40FC-ACC7-B3287B288336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleHierarchies.Helpers", "SampleHierarchies.Helpers\SampleHierarchies.Helpers.csproj", "{87E3AA3C-9757-40FC-ACC7-B3287B288336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleHierarchies.Services.Tests", "SampleHierarchies.Services.Tests\SampleHierarchies.Services.Tests.csproj", "{5B10A7AA-79FF-4A34-87AD-E7770DA6BA71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{87E3AA3C-9757-40FC-ACC7-B3287B288336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87E3AA3C-9757-40FC-ACC7-B3287B288336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87E3AA3C-9757-40FC-ACC7-B3287B288336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B10A7AA-79FF-4A34-87AD-E7770DA6BA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B10A7AA-79FF-4A34-87AD-E7770DA6BA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B10A7AA-79FF-4A34-87AD-E7770DA6BA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B10A7AA-79FF-4A34-87AD-E7770DA6BA71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
